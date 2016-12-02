@@ -1,0 +1,15 @@
+{
+  "name": "onetab",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "Detect if your page is open in another tab",
+  "dependencies": {
+    "thunky": "^1.0.1"
+  },
+  "keywords": [
+    "one tab",
+    "prevent multiple tabs",
+    "indexedDB"
+  ]
+}
